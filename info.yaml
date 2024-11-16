@@ -1,0 +1,26 @@
+# Scene
+- Scene is a container for all objects.
+- We can add objects to the scene.
+- We can remove objects from the scene.
+- We can update the scene.
+
+# Camera
+- Camera is the point of view of the scene.
+- We can change the camera's position, rotation, and zoom.
+- We can add the camera to the scene.
+
+# Mesh
+- Mesh is a container for all properties.
+- We can change the mesh's position, rotation, and scale.
+- We can add the mesh to the scene.
+
+# Renderer
+- Renderer is the object that renders the scene.
+- We can change the renderer's size, background color, and antialiasing.
+- We can add the renderer to the scene.
+
+# Object
+- Object is a container for all properties.
+- We can change the object's position, rotation, and scale.
+- We can add the object to the scene. 
+
